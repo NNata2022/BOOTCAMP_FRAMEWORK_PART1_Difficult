@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-07T16:32:14 CST" name="Default suite" finished-at="2024-01-07T16:32:22 CST" duration-ms="8085">
+    <groups>
+    </groups>
+    <test started-at="2024-01-07T16:32:14 CST" name="Default test" finished-at="2024-01-07T16:32:22 CST" duration-ms="8085">
+      <class name="com.tutorialsninja.qa.TestCase_Difficult.ShoppingCart_PageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.tutorialsninja.qa.TestCase_Difficult.ShoppingCart_PageTest@32ee6fee]" started-at="2024-01-07T16:32:14 CST" name="openBrowser" finished-at="2024-01-07T16:32:21 CST" duration-ms="6793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="addProductToCart()[pri:0, instance:com.tutorialsninja.qa.TestCase_Difficult.ShoppingCart_PageTest@32ee6fee]" started-at="2024-01-07T16:32:21 CST" name="addProductToCart" finished-at="2024-01-07T16:32:22 CST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.TestCase_Difficult.ShoppingCart_PageTest@32ee6fee]" started-at="2024-01-07T16:32:22 CST" name="tearDown" finished-at="2024-01-07T16:32:22 CST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.qa.TestCase_Difficult.ShoppingCart_PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
